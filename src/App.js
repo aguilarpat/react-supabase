@@ -8,6 +8,7 @@ import Loader from "./Loader";
 import Error from "./Error";
 import CategoryFilter from "./CategoryFilter";
 
+// const
 const CATEGORIES = [
   { name: "adventure", color: "#1E90FF" },
   { name: "mystery", color: "#6495ED" },
